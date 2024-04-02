@@ -5,5 +5,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emtkmkk" />
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=emtkmkk&rank=-C,-B" />
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=emtkmkk&rank=SECRET,SSS,SS,S,AAA,AA,A" />
 </a>
